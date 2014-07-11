@@ -1,0 +1,12 @@
+#outputArea {
+  font-size: 0px;
+  color: orange;
+/*  float: left;
+*/}
+
+#pig img {
+  height: 200px;
+  width: 300px;
+  margin-left: -50px;
+  float: left;
+}
