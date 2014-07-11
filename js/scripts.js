@@ -1,3 +1,5 @@
+// git test
+
 var isVowel = function (checkedLetter) {
   var vowels = ["a","e","i","o","u"];
   return vowels.indexOf(checkedLetter) > -1 ;
